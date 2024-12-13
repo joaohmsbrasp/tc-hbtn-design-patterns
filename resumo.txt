@@ -1,0 +1,2 @@
+O que é Arquitetura Hexagonal e por quem ela foi criada ?
+A Arquitetura Hexagonal é um padrão arquitetural de software introduzido por Alistair Cockburn em 2005. Também chamada de Arquitetura de Portas e Adaptadores (Ports and Adapters Architecture), ela foi criada com o objetivo de tornar os sistemas mais flexíveis, testáveis e independentes de tecnologia ou frameworks específicos.
